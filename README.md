@@ -5,6 +5,8 @@
 ![BigQuery](https://img.shields.io/badge/Platform-Google%20BigQuery-red)
 ![DataAnalysis](https://img.shields.io/badge/Skill-Order%20Analytics-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+[![Repository](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Kenantkurt/sql-order-analytics)
+
 
 This project builds a complete SQL analytical pipeline using the  
 `gwz_sales_17` dataset to understand product–order relationships,  
